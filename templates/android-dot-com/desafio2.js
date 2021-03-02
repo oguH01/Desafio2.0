@@ -20,6 +20,6 @@ botaoViado.addEventListener("click", function(){
   dataLayer.push({});
 ;});
   
-androidTítulo.addEventListener("click", function(){
+androidTitulo.addEventListener("click", function(){
   dataLayer.push({});
  });
