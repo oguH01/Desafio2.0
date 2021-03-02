@@ -14,6 +14,6 @@ viewSource.addEventListener("click", function(){
 	});
 });
 
-//botaoViado.addEventListener("click", function(){
-  //dataLayer.push({
+botaoViado.addEventListener("click", function(){
+  dataLayer.push({
     
