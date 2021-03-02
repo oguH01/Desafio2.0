@@ -18,8 +18,8 @@ viewSource.addEventListener("click", function(){
 
 botaoViado.addEventListener("click", function(){
   dataLayer.push({});
-;});
+});
   
 androidTitulo.addEventListener("click", function(){
   dataLayer.push({});
- });
+});
