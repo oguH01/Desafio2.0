@@ -6,6 +6,8 @@ var botaoViado = document.querySelector(".Viado");
 var androidTitulo = document.querySelector(".android-logo-image");
 var botaoMais = document.querySelector("#more-button");
 
+console.log(androidTitulo);
+console.log(botaoMais);
 //ADICIONANDO UM ESCUTADOR NO ELEMENTO DO BOTÃO VIEW SOURCE, QUE AO SER CLICADO IRÁ COLOCAR A VARIÁVEL E O EVENTO NO DATALAYER:
 viewSource.addEventListener("click", function(){
 	dataLayer.push({
