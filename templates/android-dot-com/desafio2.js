@@ -15,5 +15,5 @@ viewSource.addEventListener("click", function(){
 });
 
 botaoViado.addEventListener("click", function(){
-  dataLayer.push({
+  dataLayer.push({});
     
