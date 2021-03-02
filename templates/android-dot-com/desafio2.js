@@ -7,7 +7,7 @@ var androidTitulo = document.querySelector(".android-logo-image);
 var verMais = document.querySelector(".material-icons");
 
 console.log(androidTitulo);
-console.log(botaoMais);
+console.log(verMais);
 //ADICIONANDO UM ESCUTADOR NO ELEMENTO DO BOTÃO VIEW SOURCE, QUE AO SER CLICADO IRÁ COLOCAR A VARIÁVEL E O EVENTO NO DATALAYER:
 viewSource.addEventListener("click", function(){
 	dataLayer.push({
